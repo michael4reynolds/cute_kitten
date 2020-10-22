@@ -6,7 +6,7 @@ import 'package:cute_kitten/model/helper/CatPhotoHelper.dart';
 import 'package:dartz/dartz.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+// import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 
 class CatProvider extends ChangeNotifier {
   final _helper = CatPhotoHelper();
